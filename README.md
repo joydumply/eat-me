@@ -1,9 +1,9 @@
-# Eat-Me
+# Dummy Next.js
 
 It's a brand new project on the Next.js that I'm learning in the [course](https://www.udemy.com/course/nextjs-react-the-complete-guide/);
 
-Here I will log all features that I develop through the course as a To-Do list
+This project is just for basics of Next.js
 
-- [x] Init Next.js project
-- [x] Use a route
-- [x] Added Dummy Routes
+-   [x] Init Next.js project
+-   [x] Use a route
+-   [x] Added Dummy Routes
